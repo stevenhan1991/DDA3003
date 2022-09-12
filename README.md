@@ -1,2 +1,2 @@
 # DDA2003
-This is the course webpage of DDA 2003 Visual Analytics
+This is the course webpage of DDA2003 Visual Analytics
